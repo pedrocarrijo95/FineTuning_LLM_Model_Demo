@@ -1,6 +1,6 @@
 # TechChallenge Fase3 - Grupo41
 
-LINK VÍDEO: [https://studio.youtube.com/video/2eJGKz9WLno/edit](https://www.youtube.com/watch?v=2eJGKz9WLno&t=81s)
+LINK VÍDEO: https://www.youtube.com/watch?v=2eJGKz9WLno&t=81s
 
 ### **Prepara_Dataset.ipynb**
 
