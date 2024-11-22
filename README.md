@@ -1,5 +1,7 @@
 # TechChallenge Fase3 - Grupo41
 
+LINK VÍDEO: [https://studio.youtube.com/video/2eJGKz9WLno/edit](https://www.youtube.com/watch?v=2eJGKz9WLno&t=81s)
+
 ### **Prepara_Dataset.ipynb**
 
 Aqui é onde eu preparo o dataset do trn.json para adicionar as tags Descricão e Título e coloco Desc como INPUT e titulo como OUTPUT (achei que o resultado ficaria melhor assim e acho que não tem problema pois o objetivo é que o fine-tuning funcione)
