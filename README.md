@@ -1,41 +1,15 @@
-# TechChallenge Fase3 - Grupo41
-
-LINK VÍDEO: https://www.youtube.com/watch?v=2eJGKz9WLno&t=81s
-
 ### **Prepara_Dataset.ipynb**
 
-Aqui é onde eu preparo o dataset do trn.json para adicionar as tags Descricão e Título e coloco Desc como INPUT e titulo como OUTPUT (achei que o resultado ficaria melhor assim e acho que não tem problema pois o objetivo é que o fine-tuning funcione)
+This is where I prepare the trn.json dataset to add the Description and Title tags and put Desc as INPUT and title as OUTPUT.
 
-### **Fine_Tuning_com_o_Dataset.ipynb**
+### **Fine_Tuning_with_the_Dataset.ipynb**
 
-Aqui é onde faco o Fine Tuning e deixei o máximo de comentários possíveis e nele já tem os resultados que deram, eu pesquisei por uma descricão que peguei no meio do json de teste e ele achou exatamente o nome do produto.
+This is where I do the Fine Tuning and leave as many comments as possible and it already has the results that gave, I searched for a description that I got from the middle of the test json and it found exactly the name of the product.
 
 ### **Preparar_Dataset_Input_Titulo_Output_Desc.ipynb**
 
-Este é somente pra mostrar que eu poderia fazer o inverso com o INPUT sendo o TITULO e o OUTPUT sendo a descricão.
+This is just to show that I could do the reverse with the INPUT being the TITLE and the OUTPUT being the description.
 
-### **Teste sem Fine Tuning.ipynb**
+### **Test without Fine Tuning.ipynb**
 
-Este é o teste sem fine tuning que ele não me retorna o nome do produto e sim completa minha frase.
-
-## INTEGRANTES DO GRUPO 41
-
-Vinicius dos Santos Mendes
-
-trekpsn@gmail.com
-
-Pedro Henrique de Oliveira Carrijo
-
-pedro.car.rijo@hotmail.com
-
-DIOGO MORALES MARTINS HALAS
-
-diogo.halas@gmail.com
-
-Diogo Paiva
-
-paiva.721@gmail.com
-
-Jefferson Vega Thurck Junior
-
-jeffersonthurck@gmail.com
+This is the test without fine tuning, which does not return the name of the product, but rather completes my sentence.
