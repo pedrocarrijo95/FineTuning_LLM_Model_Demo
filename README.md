@@ -6,7 +6,7 @@ This is where I prepare the trn.json dataset to add the Description and Title ta
 
 This is where I do the Fine Tuning and leave as many comments as possible and it already has the results that gave, I searched for a description that I got from the middle of the test json and it found exactly the name of the product.
 
-### **Prepare_Dataset(Input_Title_Output_Desc).ipynb**
+### **Prepare_Dataset (In: Title, out: Desc - optional).ipynb**
 
 This is just to show that I could do the reverse with the INPUT being the TITLE and the OUTPUT being the description.
 
